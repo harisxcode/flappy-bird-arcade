@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Arcade",
+  "description": "A polished retro Flappy Bird arcade game built for the browser with authentic physics, audio synthesis, themes, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

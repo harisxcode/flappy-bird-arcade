@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-arcade {
+    font-family: 'Press Start 2P', monospace, cursive, sans-serif;
+  }
+  .font-ui {
+    font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Ensure crisp retro rendering */
+canvas {
+  image-rendering: pixelated;
+}
+
